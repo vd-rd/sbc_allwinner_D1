@@ -357,7 +357,7 @@
     (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/2b9066e1-7259-4b4e-9953-ac094e7ccf7a"
       (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/714052e0-565e-4510-a900-614377461a7a"
+    (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/2ed4509d-d0f3-42f5-9824-f248833e9a5a"
       (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
     )
     (path "/98cac24f-0a81-401e-950e-037c2dd18ad4/022075bc-87d7-4e22-a689-149698e56004"
@@ -672,8 +672,8 @@
     (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/f5f893b8-7391-4cde-9d48-59f15058743d"
       (reference "J5") (unit 1) (value "Micro_SD_Card_Det") (footprint "gct:MEM20610118800A")
     )
-    (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/7b9e2488-8c8c-4ea9-9238-a657b70281ed"
-      (reference "J301") (unit 1) (value "Conn_2Rows-45Pins_MountingPin") (footprint "Connector_FFC-FPC:TE_4-1734839-5_1x45-1MP_P0.5mm_Horizontal")
+    (path "/3f402d81-8f44-4f78-a9b4-5c3d8dd955fa/d13b8be0-c98d-4799-9cb4-973a423226df"
+      (reference "J6") (unit 1) (value "Conn_02x22_Odd_Even") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x22_P1.27mm_Vertical")
     )
     (path "/3aadbe82-37d5-4ca5-b3ee-87fc27f7f767/f333aba4-a003-4ccf-a4e0-7d76a6d2418f"
       (reference "L302") (unit 1) (value "4.7uH") (footprint "Inductor_SMD:L_TDK_NLV25_2.5x2.0mm")
