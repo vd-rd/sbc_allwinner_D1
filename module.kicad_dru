@@ -8,3 +8,8 @@
    (constraint track_width (min 0.127mm) (opt 0.154mm))
    (constraint clearance (min 0.1016mm) (opt 0.154mm))
    (condition "A.insideCourtyard('U101')"))
+
+# Specify an optimal gap for a particular diff-pair
+(rule "optimal clearance"
+    (constraint clearance (min 0.154mm) (opt 0.22mm))
+    (condition "A.NetClass == 'ddr-ac'"))
